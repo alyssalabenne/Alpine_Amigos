@@ -1,0 +1,501 @@
+id,resort,country,continent,price,beginner_slopes,intermediate_slopes,difficult_slopes,total_slopes,snowparks
+1,Hemsedal,Norway,Europe,46,29,10,4,43,Yes
+2,Geilosiden Geilo,Norway,Europe,44,18,12,4,34,Yes
+3,Golm,Austria,Europe,48,13,12,1,26,No
+4,Red Mountain Resort,Canada,North America,60,20,50,50,120,Yes
+5,Hafjell,Norway,Europe,45,33,7,4,44,Yes
+6,Voss,Norway,Europe,43,25,4,11,40,Yes
+7,Porter,New Zealand,Oceania,61,5,0,5,10,No
+8,Nevados de Chillan,Chile,South America,57,10,15,10,35,Yes
+9,Hochschwarzeck,Germany,Europe,22,4,0,0,4,No
+10,Rossfeld Berchtesgaden Oberau,Germany,Europe,20,7,1,0,8,Yes
+11,Fernie,Canada,North America,67,42,58,42,142,Yes
+12,Sun Peaks,Canada,North America,62,13,78,43,134,Yes
+13,Panorama,Canada,North America,62,20,55,25,100,Yes
+14,Brauneck Lenggries Wegscheid,Germany,Europe,35,8,22,4,34,No
+15,Zermatt - Matterhorn,Switzerland,Europe,81,75,220,27,322,Yes
+16,Treble Cone,New Zealand,Oceania,68,4,9,9,22,Yes
+17,Val Gardena,Italy,Europe,54,52,105,18,175,Yes
+18,Gressoney La-Trinite Monterosa Ski,Italy,Europe,43,23,94,15,132,Yes
+19,Les Gets Les Portes du Soleil,France,Europe,51,310,210,60,580,Yes
+20,Espace San Bernardo,France,Europe,43,55,83,22,160,Yes
+21,The Lecht,United Kingdom,Europe,33,5,9,4,18,Yes
+22,Steamboat,United States,North America,120,25,95,45,165,Yes
+23,Howelsen Hill,United States,North America,21,1,1,0,2,No
+24,Les Contamines Hauteluce,France,Europe,39,40,60,20,120,No
+25,Crested Butte,United States,North America,98,27,69,25,121,Yes
+26,Jackson Hole,United States,North America,119,16,50,50,116,Yes
+27,Park City,United States,North America,97,27,152,71,250,Yes
+28,Nevis Range,United Kingdom,Europe,36,7,10,3,20,No
+29,Arapahoe Basin,United States,North America,83,40,25,40,105,Yes
+30,The Remarkables,New Zealand,Oceania,74,3,4,3,10,Yes
+31,Valchiavenna Madesimo,Italy,Europe,39,13,28,5,46,Yes
+32,La Thuile La Rosière,Italy,Europe,43,55,83,22,160,Yes
+33,Livigno Carosello Mottolino,Italy,Europe,46,30,65,20,115,Yes
+34,Madonna di Campiglio,Italy,Europe,50,60,68,22,150,Yes
+35,Wagrain,Austria,Europe,52,30,81,4,115,Yes
+36,Kaunertal Glacier,Austria,Europe,43,14,4,2,20,No
+37,Saalbach Hinterglemm Leogang Fieberbrunn,Austria,Europe,53,140,112,18,270,Yes
+38,Sestriere,Italy,Europe,48,96,220,84,400,No
+39,Reither Kogel Reith im Alpbachtal,Austria,Europe,46,1,3,0,4,No
+40,Kicking Horse - Golden,Canada,North America,67,20,20,60,100,No
+41,Grandvalira – Pas de la Casa,Andorra,Europe,47,100,77,33,210,Yes
+42,Rinerhorn,Switzerland,Europe,48,10,22,8,40,Yes
+43,Madrisa,Switzerland,Europe,52,6,9,9,24,Yes
+44,Jakobshorn,Switzerland,Europe,58,25,13,2,40,Yes
+45,Glacier 3000 Les Diablerets,Switzerland,Europe,54,9,3,12,24,Yes
+46,Big White,Canada,North America,61,18,56,29,103,Yes
+47,Obergurgl Hochgurgl,Austria,Europe,50,35,55,20,110,Yes
+48,Coronet Peak,New Zealand,Oceania,74,8,16,16,40,Yes
+49,Les Deux alpes,France,Europe,49,110,56,34,200,Yes
+50,Valle Nevado,Chile,South America,64,4,14,21,39,Yes
+51,Ben Lomond,Australia,Oceania,47,2,3,1,6,No
+52,Portillo,Chile,South America,57,10,4,6,20,No
+53,Catedral Alta Patagonia,Argentina,South America,51,30,60,30,120,Yes
+54,Whistler,Canada,North America,93,40,110,50,200,Yes
+55,Stubai Glacier,Austria,Europe,46,19,15,4,38,Yes
+56,Fonna Glacier,Norway,Europe,42,2,2,0,4,Yes
+57,Tignes,France,Europe,56,170,78,52,300,Yes
+58,La Plagne,France,Europe,50,139,59,27,225,Yes
+59,Les Orres,France,Europe,35,30,60,10,100,Yes
+60,Espace Diamant-Les Saisies,France,Europe,40,132,49,11,192,Yes
+61,Avoriaz,France,Europe,51,310,210,60,580,Yes
+62,Chatel,France,Europe,51,310,210,60,580,Yes
+63,Le Lys - Cauterets,France,Europe,37,21,12,3,36,Yes
+64,Pont d'Espagne - Cauterets,France,Europe,35,3,1,0,4,No
+65,La Grave - La Meije,France,Europe,49,3,0,0,3,No
+66,Courchevel,France,Europe,61,312,216,72,600,Yes
+67,Saint Martin de Belleville,France,Europe,61,312,216,72,600,Yes
+68,Alpe d'Huez,France,Europe,51,70,130,50,250,Yes
+69,La Tania-Val Thorens,France,Europe,61,312,216,72,600,Yes
+70,Sainte-Foy-Tarentaise,France,Europe,31,10,25,6,41,No
+71,Les Arcs,France,Europe,50,104,70,26,200,Yes
+72,Montgenevre,France,Europe,48,96,220,84,400,No
+73,Bonneval sur Arc,France,Europe,28,13,11,1,25,No
+74,Val Thorens,France,Europe,61,312,216,72,600,Yes
+75,Serre Chevalier,France,Europe,49,138,80,32,250,Yes
+76,Kleine Scheidegg,Switzerland,Europe,55,33,56,13,102,No
+77,Balme Les Autannes,France,Europe,51,13,16,0,29,Yes
+78,Grands Montets (Chamonix),France,Europe,62,6,9,14,29,Yes
+79,Winter Park Resort,United States,North America,119,11,53,79,143,Yes
+80,Arcalis-Ordino,Andorra,Europe,37,13,14,3,30,Yes
+81,Ruka,Finland,Europe,43,9,7,2,18,Yes
+82,Levi,Finland,Europe,43,15,19,2,36,Yes
+83,Niseko,Japan,Asia,57,20,16,8,44,Yes
+84,Kranjska Gora,Slovenia,Europe,33,10,8,2,20,Yes
+85,El Tarter – Pas de la Casa,Andorra,Europe,47,100,77,33,210,Yes
+86,Bansko,Bulgaria,Europe,30,20,24,3,47,Yes
+87,Alta,United States,North America,82,29,46,40,115,No
+88,Aspen Mountain,United States,North America,124,0,49,54,103,No
+89,Aspen Highlands,United States,North America,124,24,40,70,134,No
+90,Squaw Valley,United States,North America,102,25,45,30,100,Yes
+91,Vail,United States,North America,127,57,84,93,234,Yes
+92,Kitzsteinhorn - Kaprun,Austria,Europe,50,13,25,3,41,Yes
+93,Snowbasin,United States,North America,85,5,28,15,48,Yes
+94,Beaver Creek,United States,North America,141,28,64,57,149,Yes
+95,Glencoe Mountain,United Kingdom,Europe,35,7,10,7,24,No
+96,Sölden,Austria,Europe,53,70,44,29,143,Yes
+97,Kuühtai,Austria,Europe,37,6,26,8,40,Yes
+98,Breckenridge,United States,North America,140,28,60,65,153,Yes
+99,Obertauern,Austria,Europe,46,61,35,4,100,Yes
+100,Elfer Neustift,Austria,Europe,29,0,7,0,7,No
+101,Serfaus-Fiss-Ladis,Austria,Europe,49,47,123,28,198,Yes
+102,Hochkonig-Maria Alm,Austria,Europe,52,52,41,19,112,Yes
+103,Mayrhofen-Penken,Austria,Europe,52,40,66,30,136,Yes
+104,St. Anton am Arlberg,Austria,Europe,53,130,123,51,304,Yes
+105,Axamer Lizum,Austria,Europe,38,7,21,2,30,Yes
+106,Flachau,Austria,Europe,52,30,81,4,115,Yes
+107,Ski Juwel Alpbachtal,Austria,Europe,46,25,53,13,91,Yes
+108,Ischgl,Austria,Europe,52,47,142,49,238,Yes
+109,Bad Gastein,Austria,Europe,52,30,52,2,84,Yes
+110,Gargellen,Austria,Europe,47,20,5,2,27,Yes
+111,Lech am Arlberg,Austria,Europe,53,130,123,51,304,Yes
+112,Kitzbühel Kirchberg,Austria,Europe,55,101,61,17,179,Yes
+113,Galtur,Austria,Europe,40,6,25,12,43,Yes
+114,Fieberbrunn - Saalbach Hinterglemm Leogang,Austria,Europe,53,140,112,18,270,Yes
+115,Schladming,Austria,Europe,52,46,68,8,122,Yes
+116,Ellmau,Austria,Europe,49,122,129,33,284,Yes
+117,Zauchensee,Austria,Europe,52,23,16,4,43,Yes
+118,Westendorf,Austria,Europe,49,122,129,33,284,Yes
+119,Silvretta Montafon,Austria,Europe,53,60,45,8,113,Yes
+120,Zürs,Austria,Europe,53,130,123,51,304,Yes
+121,Söll,Austria,Europe,49,122,129,33,284,Yes
+122,St. Johann in Tirol,Austria,Europe,44,16,23,3,42,No
+123,St. Christoph am Arlberg,Austria,Europe,53,130,123,51,304,Yes
+124,Courmayeur Checrouit,Italy,Europe,46,16,21,4,41,Yes
+125,Sierra Nevada-Pradollano,Spain,Europe,47,50,49,7,106,Yes
+126,Cortina d'Ampezzo,Italy,Europe,52,45,55,20,120,Yes
+127,Val Senales Glacier,Italy,Europe,44,8,7,11,26,Yes
+128,Saas-Fee,Switzerland,Europe,63,20,60,20,100,Yes
+129,Champoluc,Italy,Europe,43,23,94,15,132,Yes
+130,Kronplatz,Italy,Europe,54,52,42,25,119,Yes
+131,Formigal,Spain,Europe,44,47,70,20,137,Yes
+132,Baqueira,Spain,Europe,50,79,52,19,150,Yes
+133,Sauze d’Oulx,Italy,Europe,48,96,220,84,400,No
+134,Cervinia,Switzerland,Europe,81,75,220,27,322,Yes
+135,Wasserngrat,Switzerland,Europe,54,3,3,2,8,No
+136,Wispile,Switzerland,Europe,54,3,3,1,7,No
+137,Crans-Montana,Switzerland,Europe,60,55,70,15,140,Yes
+138,Brunni Engelberg,Switzerland,Europe,38,2,3,2,7,No
+139,Arosa Lenzerheide,Switzerland,Europe,63,111,87,27,225,Yes
+140,Verbier,Switzerland,Europe,66,107,202,103,412,Yes
+141,St. Moritz,Switzerland,Europe,69,42,79,34,155,Yes
+142,Gresse en Vercors,France,Europe,19,8,7,5,20,Yes
+143,Nendaz,Switzerland,Europe,66,107,202,103,412,Yes
+144,Villars Gryon,Switzerland,Europe,54,51,45,4,100,Yes
+145,Thyon,Switzerland,Europe,66,107,202,103,412,Yes
+146,Veysonnaz,Switzerland,Europe,66,107,202,103,412,Yes
+147,Buchenberg-Buching-Halblech,Germany,Europe,25,2,4,0,6,No
+148,Alpendorf,Austria,Europe,52,30,81,4,115,Yes
+149,Meribel,France,Europe,61,312,216,72,600,Yes
+150,Les Menuires,France,Europe,61,312,216,72,600,Yes
+151,Les Sybelles-Le Corbier,France,Europe,44,53,239,18,310,Yes
+152,Le Grand Massif-Flaine,France,Europe,47,135,95,35,265,Yes
+153,Megeve-Saint-Gervais,France,Europe,46,98,134,31,263,Yes
+154,Big Sky Resort,United States,North America,110,55,69,126,250,Yes
+155,Snowmass,United States,North America,124,14,111,111,236,Yes
+156,Soldeu-Pas de la Casa,Andorra,Europe,47,100,77,33,210,Yes
+157,Laax-Flims-Falera,Switzerland,Europe,68,88,81,19,188,Yes
+158,Vars-Risoul,France,Europe,39,75,90,20,185,Yes
+159,Le Grand Domaine,France,Europe,44,115,35,15,165,Yes
+160,Galibier Thabor,France,Europe,39,75,60,15,150,Yes
+161,Zillertal Arena,Austria,Europe,52,43,89,11,143,Yes
+162,La Molina,Spain,Europe,45,76,47,18,141,Yes
+163,Lake Louise,Canada,North America,66,35,62,42,139,Yes
+164,Auron-Saint-Etienne,France,Europe,34,60,45,30,135,Yes
+165,Powder Mountain,United States,North America,67,30,50,55,135,Yes
+166,Keystone,United States,North America,120,25,65,45,135,Yes
+167,Alta Badia,Italy,Europe,52,70,52,8,130,Yes
+168,Killington,United States,North America,90,37,43,46,126,Yes
+169,Copper Mountain,United States,North America,89,30,40,56,126,Yes
+170,La Clusaz-Manigod,France,Europe,37,62,40,23,125,Yes
+171,Espace Villard Correncon,France,Europe,36,50,50,25,125,Yes
+172,Val Cenis-Lanslevillard,France,Europe,36,73,42,10,125,Yes
+173,Isola 2000,France,Europe,34,75,35,10,120,Yes
+174,Obersaxen,Switzerland,Europe,51,60,40,20,120,Yes
+175,Les 7 Laux-Prapoutel,France,Europe,36,46,36,38,120,Yes
+176,Corvatsch-Furtschellas,Switzerland,Europe,69,13,89,17,119,Yes
+177,Sugarloaf,United States,North America,81,28,40,51,119,Yes
+178,Silver Star,Canada,North America,62,20,50,45,115,Yes
+179,Taos,United States,North America,84,27,28,58,113,Yes
+180,Nassfeld-Hermagor,Austria,Europe,46,30,69,11,110,Yes
+181,Sunshine Village,Canada,North America,66,25,50,34,109,Yes
+182,Mondole Ski Artesina,Italy,Europe,33,42,51,11,104,Yes
+183,Aletsch Arena-Riederalp,Switzerland,Europe,53,42,50,12,104,Yes
+184,Bad Kleinkirchheim,Austria,Europe,47,18,77,8,103,Yes
+185,Snowbird,United States,North America,99,27,38,38,103,Yes
+186,Bardonecchia,Italy,Europe,36,54,38,8,100,Yes
+187,Saint-Lary-Soulan,France,Europe,42,60,30,10,100,Yes
+188,Orcieres Merlette 1850,France,Europe,34,55,38,7,100,Yes
+189,Devoluy-Superdevoluy,France,Europe,36,60,30,10,100,Yes
+190,Grand Tourmalet,France,Europe,42,58,35,7,100,Yes
+191,Mt. Rose,United States,North America,93,20,30,50,100,Yes
+192,Mt. Buller,Australia,Oceania,87,25,45,30,100,Yes
+193,Mt. Baker,United States,North America,50,24,45,31,100,Yes
+194,Alpine Meadows,United States,North America,102,25,40,35,100,Yes
+195,Deer Valley,United States,North America,109,27,41,32,100,No
+196,Perisher,Australia,Oceania,0,22,60,18,100,Yes
+197,Wolf Creek,United States,North America,56,20,35,45,100,No
+198,Wenatchee-Mission Ridge,United States,North America,54,10,60,30,100,No
+199,Mt. Bachelor,United States,North America,79,15,25,60,100,Yes
+200,Northstar California Resort,United States,North America,120,25,45,27,97,Yes
+201,Parsenn,Switzerland,Europe,61,20,60,16,96,Yes
+202,Schweitzer Mountain,United States,North America,66,20,40,35,95,Yes
+203,Heavenly,United States,North America,120,18,42,34,94,Yes
+204,Castle Mountain,Canada,North America,50,9,20,65,94,Yes
+205,Oberau,Austria,Europe,30,1,0,1,2,No
+206,Loveland,United States,North America,61,12,38,43,93,Yes
+207,Stratton,United States,North America,90,60,20,12,92,Yes
+208,Falls Creek,Australia,Oceania,87,15,65,12,92,Yes
+209,Bald Mountain-Sun Valley,United States,North America,107,35,40,17,92,No
+210,Åre,Sweden,Europe,45,45,38,8,91,Yes
+211,Whitefish Mountain Resort,United States,North America,65,18,46,27,91,Yes
+212,Alto Sangro-Roccaraso,Italy,Europe,41,37,32,20,89,No
+213,Chamrousse,France,Europe,34,45,35,10,90,Yes
+214,Valberg,France,Europe,32,45,35,10,90,Yes
+215,Mt. Hood Meadows,United States,North America,76,13,45,31,89,Yes
+216,Sugar Bowl,United States,North America,98,15,40,34,89,Yes
+217,Mammoth Mountain,United States,North America,114,18,48,22,88,Yes
+218,Telluride,United States,North America,110,6,51,29,86,Yes
+219,Adelboden,Switzerland,Europe,55,44,38,6,88,Yes
+220,Rinderberg,Switzerland,Europe,54,62,21,4,87,Yes
+221,Sugarbush,United States,North America,83,17,40,30,87,Yes
+222,Graukogel-Bad Gastein,Austria,Europe,36,3,6,2,11,No
+223,Marmot Basin-Jasper,Canada,North America,60,26,26,34,86,Yes
+224,Les Portes du Mont-Blanc,France,Europe,35,28,50,7,85,No
+225,Purgatory-Durango,United States,North America,76,15,40,30,85,Yes
+226,Le Grand Bornand,France,Europe,37,49,27,8,84,Yes
+227,Sunday River,United States,North America,85,30,40,14,84,Yes
+228,Kaltenbach-Hochzillertal,Austria,Europe,52,28,41,13,82,Yes
+229,Shigakogen Mountain Resort,Japan,Asia,39,41,30,12,83,Yes
+230,Grimentz,Switzerland,Europe,51,26,28,26,80,Yes
+231,Kimberley,Canada,North America,49,15,35,30,80,Yes
+232,Civetta-Alleghe,Italy,Europe,43,30,44,6,80,Yes
+233,Ax les Thermes,France,Europe,37,40,25,15,80,Yes
+234,Mzaar Kfardebian,Lebanon,Asia,51,46,30,4,80,No
+235,Yellowstone Club,United States,North America,0,30,30,20,80,No
+236,Damuls Mellau,Austria,Europe,49,37,39,1,77,Yes
+237,Mont Tremblant,Canada,North America,60,16,25,37,78,Yes
+238,Smugglers' Notch,United States,North America,65,13,41,24,78,Yes
+239,Rosa Khutor,Russia,Europe,22,30,26,21,77,Yes
+240,Zell am See,Austria,Europe,50,30,28,19,77,Yes
+241,Cerler,Spain,Europe,42,35,27,14,76,Yes
+242,Jay Peak,United States,North America,70,15,31,30,76,No
+243,Three Peaks Dolomites,Italy,Europe,51,17,39,18,74,Yes
+244,Puy St. Vincent,France,Europe,34,28,34,13,75,Yes
+245,Angel Fire,United States,North America,62,40,28,7,75,Yes
+246,Folgaria,Italy,Europe,40,36,32,5,73,Yes
+247,Titlis-Engelberg,Switzerland,Europe,57,34,26,12,72,Yes
+248,Trysil,Norway,Europe,46,33,18,20,71,Yes
+249,Nauders am Reschenpass,Austria,Europe,42,24,34,13,71,Yes
+250,Bridger Bowl-Bozeman,United States,North America,49,20,26,25,71,Yes
+251,Brian Head,United States,North America,59,22,24,25,71,No
+252,Grossarltal,Austria,Europe,50,25,43,1,69,Yes
+253,Thredbo,Australia,Oceania,84,7,60,3,70,Yes
+254,Stowe,United States,North America,106,20,42,8,70,Yes
+255,Katschberg,Austria,Europe,46,10,50,10,70,Yes
+256,Valfrejus,France,Europe,29,40,20,10,70,Yes
+257,Savognin,Switzerland,Europe,50,32,38,0,70,Yes
+258,Scuol Motta Naluns,Switzerland,Europe,50,27,32,11,70,Yes
+259,Okemo,United States,North America,86,22,26,22,70,Yes
+260,Mont Sainte Anne Beaupre,Canada,North America,52,15,33,21,69,Yes
+261,49 Degrees North Mountain Resort,United States,North America,50,20,27,21,68,No
+262,Passo San Pellegrino Falcade,Italy,Europe,47,20,38,8,66,Yes
+263,Bear Valley,United States,North America,67,17,27,23,67,No
+264,Apex Resort,Canada,North America,52,8,33,26,67,Yes
+265,Brighton,United States,North America,67,10,18,38,66,Yes
+266,Piau Engaly,France,Europe,37,35,22,8,65,Yes
+267,Flumserberg,Switzerland,Europe,51,10,38,17,65,Yes
+268,Super Sauze,France,Europe,30,35,20,10,65,Yes
+269,Bukovel,Ukraine,Europe,32,26,28,11,65,Yes
+270,La Norma,France,Europe,29,17,43,5,65,Yes
+271,Mt. Hood Skibowl,United States,North America,45,15,15,35,65,Yes
+272,Kirkwood,United States,North America,85,15,30,20,65,Yes
+273,Red Lodge Mountain,United States,North America,45,11,30,24,65,No
+274,Solitude,United States,North America,71,20,30,14,64,No
+275,Pal Arinsal La Massana Vallnord,Andorra,Europe,37,31,24,8,63,Yes
+276,Arabba,Italy,Europe,49,32,22,8,62,Yes
+277,Wildkogel Neukirchen Bramberg,Austria,Europe,44,28,25,9,62,Yes
+278,Alyeska Resort,United States,North America,68,14,31,17,62,No
+279,Hintertux Glacier,Austria,Europe,52,14,35,11,60,Yes
+280,Disentis 3000,Switzerland,Europe,49,20,30,10,60,Yes
+281,Belalp Blatten,Switzerland,Europe,49,20,20,20,60,Yes
+282,San Martino di Castrozza,Italy,Europe,44,16,32,12,60,Yes
+283,Meiringen Hasliberg,Switzerland,Europe,50,20,34,6,60,No
+284,Toggenburg-Wildhaus,Switzerland,Europe,52,10,45,5,60,Yes
+285,Alpe di Siusi-Seiser Alm-,Italy,Europe,54,14,45,1,60,Yes
+286,Le Lioran,France,Europe,31,30,20,10,60,Yes
+287,Saint Luc Chandolin Anniviers,Switzerland,Europe,47,20,30,10,60,Yes
+288,Les Karellis,France,Europe,27,26,25,9,60,Yes
+289,Peyragudes,France,Europe,40,30,26,4,60,Yes
+290,Leysin,Switzerland,Europe,45,43,15,2,60,Yes
+291,Gudauri,Georgia,Asia,14,22,28,10,60,Yes
+292,Mount Snow,United States,North America,81,6,46,8,60,Yes
+293,Mount Washington,Canada,North America,64,12,21,27,60,Yes
+294,Ponte di Legno,Italy,Europe,42,10,40,9,59,Yes
+295,Gore Mountain,United States,North America,71,6,28,23,57,Yes
+296,Eggli La Videmanette,Switzerland,Europe,54,35,17,5,57,No
+297,Anzere,Switzerland,Europe,46,12,37,9,58,Yes
+298,Borovets,Bulgaria,Europe,28,24,29,5,58,Yes
+299,Font Romeu Bolquere,France,Europe,38,30,19,9,58,Yes
+300,Oppdal,Norway,Europe,44,40,7,9,56,No
+301,Brevent Flegere-,France,Europe,51,11,25,20,56,Yes
+302,Bretton Woods,United States,North America,76,25,16,15,56,Yes
+303,Les Houches-,France,Europe,43,25,25,5,55,Yes
+304,Yllas,Finland,Europe,42,21,28,6,55,Yes
+305,Belvedere,Italy,Europe,48,7,40,7,54,Yes
+306,Revelstoke Mountain Resort,Canada,North America,64,16,18,21,55,Yes
+307,Lauchernalp Lotschental,Switzerland,Europe,48,20,17,18,55,Yes
+308,Grossglockner Heiligenblut,Austria,Europe,44,20,34,1,55,No
+309,Brandnertal,Austria,Europe,46,22,30,3,55,Yes
+310,Alpe du Grand-Serre-La Morte,France,Europe,27,36,17,2,55,Yes
+311,Les Angles,France,Europe,38,22,23,10,55,Yes
+312,Kopaonik,Serbia,Europe,30,30,19,6,55,Yes
+313,Aussois,France,Europe,29,30,22,3,55,Yes
+314,Apache,United States,North America,48,12,18,25,55,No
+315,Erciyes-Kayseri,Turkey,Asia,17,18,29,7,54,No
+316,Hunter Mountain,United States,North America,68,18,18,19,55,No
+317,First-Grindelwald,Switzerland,Europe,55,30,15,8,53,Yes
+318,Sorenberg Rothorn Dorf,Switzerland,Europe,44,30,15,8,53,Yes
+319,Riserva Bianca-Limone Piemonte,Italy,Europe,34,11,35,5,51,No
+320,Eldora Mountain,United States,North America,80,11,26,15,52,Yes
+321,Donner Ski Ranch,United States,North America,59,13,26,13,52,No
+322,Las Lenas,Argentina,South America,44,5,12,35,52,Yes
+323,Happo-One-Hakuba,Japan,Asia,40,16,26,10,52,Yes
+324,Gitschberg Jochtal,Italy,Europe,46,17,25,9,51,Yes
+325,Schilthorn-Murren-Lauterbrunnen,Switzerland,Europe,55,19,23,9,51,Yes
+326,Dachstein West,Austria,Europe,42,15,33,3,51,Yes
+327,Cypress Mountain,Canada,North America,44,6,22,22,50,Yes
+328,Pila,Italy,Europe,42,8,35,6,49,Yes
+329,Brigels-Waltensburg-Andiast,Switzerland,Europe,49,13,33,3,49,Yes
+330,Aprica,Italy,Europe,38,28,14,7,49,Yes
+331,Bormio-Cima Bianca,Italy,Europe,40,14,34,2,50,Yes
+332,Sedrun-Oberalp,Switzerland,Europe,53,10,35,5,50,Yes
+333,Grosseck St. Michael,Austria,Europe,41,26,17,7,50,No
+334,Hirmentaz,France,Europe,24,30,17,3,50,Yes
+335,Pragelato,Italy,Europe,0,14,32,4,50,No
+336,Porte Puymorens,France,Europe,30,21,20,9,50,Yes
+337,Mythenregion,Switzerland,Europe,39,18,31,1,50,Yes
+338,Candanchu,Spain,Europe,41,15,18,15,48,No
+339,Zugspitze,Germany,Europe,45,7,13,0,20,No
+340,Zao Onsen,Japan,Asia,39,20,20,10,50,Yes
+341,Lindvallen,Sweden,Europe,41,22,17,3,42,Yes
+342,Jasna Nizke Tatry-Chopok,Slovakia,Europe,39,19,17,7,43,Yes
+343,Mitsumata Kagura Tashiro Mt.Naeba,Japan,Asia,44,7,8,8,23,Yes
+344,Tandadalen-Hundfjallet-Salen,Sweden,Europe,41,18,15,12,45,Yes
+345,Appi Kogen,Japan,Asia,43,13,18,13,44,No
+346,Gazprom Mountain Resort,Russia,Europe,32,7,10,2,19,No
+347,Rusutsu,Japan,Asia,45,12,16,12,40,Yes
+348,Steinplatte Winklmoosalm,Austria,Europe,46,18,22,2,42,Yes
+349,Uludag-Bursa,Turkey,Asia,0,10,15,3,28,Yes
+350,Rigi,Switzerland,Europe,44,4,4,0,8,No
+351,Metabief,France,Europe,26,19,18,2,39,No
+352,Vitosha-Sofia,Bulgaria,Europe,18,12,6,2,20,No
+353,Latemar-Obereggen,Italy,Europe,47,9,32,7,48,Yes
+354,Szczyrk-Skrzyczne,Poland,Europe,20,22,7,4,33,No
+355,Mariborsko Pohorje,Slovenia,Europe,31,23,13,5,41,No
+356,El Colorado Farellones,Chile,South America,64,25,10,15,50,Yes
+357,Praz de Lys Sommand Taninges,France,Europe,29,22,16,6,44,Yes
+358,Jahorina,Bosnia and Herzegovina,Europe,20,3,19,3,25,No
+359,Espace Dole La Dole,France,Europe,27,17,8,2,27,Yes
+360,Myoko Akakura,Japan,Asia,39,9,8,2,19,Yes
+361,Naeba Mt. Naeba,Japan,Asia,44,6,8,6,20,Yes
+362,Nozawa Onsen,Japan,Asia,37,22,13,9,44,Yes
+363,Kreischberg,Austria,Europe,44,17,16,9,42,Yes
+364,Garmisch,Germany,Europe,43,12,18,10,40,Yes
+365,Carezza Ski,Italy,Europe,41,21,14,3,38,Yes
+366,Pizol-Bad Ragaz,Switzerland,Europe,51,14,21,8,43,Yes
+367,SuperBesse,France,Europe,32,30,9,4,43,Yes
+368,Stoten,Sweden,Europe,41,26,3,3,32,No
+369,Palandoken Ejder,Turkey,Asia,0,19,11,13,43,Yes
+370,Fellhor Kanzelwand,Austria,Europe,45,13,19,2,34,Yes
+371,Idre Fjall,Sweden,Europe,40,17,22,2,41,Yes
+372,Großglockner Resort Kals-Matrei,Austria,Europe,47,8,22,6,36,Yes
+373,Pamporovo,Bulgaria,Europe,28,17,6,5,28,Yes
+374,Abetone,Italy,Europe,30,14,28,1,43,Yes
+375,Gerlitzen,Austria,Europe,45,10,27,3,40,Yes
+376,Paganella-Andalo,Italy,Europe,40,9,22,1,32,Yes
+377,Melchsee-Frutt-Kerns,Switzerland,Europe,44,20,6,10,36,Yes
+378,Vall de Nuria,Spain,Europe,30,4,2,1,7,No
+379,Areches-Beaufort-,France,Europe,29,15,20,15,50,Yes
+380,Spindleruv Mlyn,Czech Republic,Europe,34,8,13,2,23,Yes
+381,Les Mosses-La Lecherette,Switzerland,Europe,31,10,30,0,40,No
+382,Dizin,Iran,Asia,31,5,9,4,18,Yes
+383,Gala Yuzawa-Ishiuchi Maruyama,Japan,Asia,35,10,9,6,25,Yes
+384,YongPyong Resort,South Korea,Asia,57,2,11,10,23,No
+385,Cimone-Montecreto-Sestola,Italy,Europe,35,15,25,10,50,Yes
+386,Luchon Superbagneres,France,Europe,34,16,10,6,32,Yes
+387,High1 Resort,South Korea,Asia,0,4,7,9,20,No
+388,La Parva,Chile,South America,60,12,20,6,38,Yes
+389,Lelex Crozet,France,Europe,28,16,7,4,27,Yes
+390,Alpika Service,Russia,Europe,0,10,10,5,25,No
+391,Sinaia,Romania,Europe,32,3,11,4,18,No
+392,Furano,Japan,Asia,42,15,13,2,30,Yes
+393,Gourette Eaux Bonnes-,France,Europe,38,18,13,4,35,Yes
+394,Whiteface Lake Placid,United States,North America,79,7,15,13,35,Yes
+395,Rauriser Hochalmbahnen-Rauris,Austria,Europe,43,15,12,5,32,Yes
+396,Hoch Ybrig,Switzerland,Europe,46,15,30,5,50,Yes
+397,Meran 2000,Italy,Europe,39,12,25,3,40,Yes
+398,Natschen Andermatt,Switzerland,Europe,44,8,5,8,21,No
+399,Hoshino Resorts Tomamu,Japan,Asia,42,7,7,6,20,No
+400,Albiez-Montrond,France,Europe,25,25,7,3,35,No
+401,Tarvisio-Monte Lussari,Italy,Europe,35,9,11,5,25,Yes
+402,Mount Parnassos Fterolakka,Greece,Europe,30,18,15,3,36,No
+403,Moelltal Glacier,Austria,Europe,47,5,7,4,16,Yes
+404,Wendelstein Brannenburg,Germany,Europe,35,0,7,4,11,No
+405,Glenshee,United Kingdom,Europe,33,24,10,2,36,No
+406,Sulden am Ortler,Italy,Europe,41,17,13,14,44,Yes
+407,The Summit at Snoqualmie,United States,North America,67,5,13,9,27,Yes
+408,Poiana Brasov,Romania,Europe,32,5,2,5,12,No
+409,Hinterstoder Hoss,Austria,Europe,44,12,18,10,40,Yes
+410,St. Jean Montclar,France,Europe,28,25,20,5,50,No
+411,Port del Comte,Spain,Europe,33,20,15,5,40,No
+412,Tanndalen,Sweden,Europe,41,20,15,3,38,No
+413,Feldberg-Seebuck,Germany,Europe,35,7,14,5,26,Yes
+414,Pitztal Glacier,Austria,Europe,48,3,16,0,19,Yes
+415,Kiroro,Japan,Asia,42,8,10,10,28,No
+416,Tauplitz-Bad Mitterndorf,Austria,Europe,41,18,18,6,42,No
+417,Hochoetz-Oetz,Austria,Europe,37,12,21,3,36,Yes
+418,Rosshutte-Seefeld,Austria,Europe,44,10,9,1,20,Yes
+419,Malbun,Liechtenstein,Europe,42,11,9,3,23,Yes
+420,Spicak,Czech Republic,Europe,23,3,3,0,6,Yes
+421,Riesneralm-Donnersbachwald,Austria,Europe,40,15,12,3,30,No
+422,Berwang-Bichlbach,Austria,Europe,42,24,10,1,35,No
+423,Glungezer-Tulfes,Austria,Europe,30,7,15,0,22,Yes
+424,Fanningberg,Austria,Europe,41,11,5,7,23,Yes
+425,Tamarack Resort,United States,North America,59,12,20,10,42,Yes
+426,Turracher Hohe,Austria,Europe,45,14,24,3,41,Yes
+427,Indoor ski area Snow Arena-Druskininkai,Lithuania,Europe,29,1,0,0,1,Yes
+428,Niedere-Andelsbuch-Bezau,Austria,Europe,31,5,4,1,10,No
+429,Summit Ski Area at Mt. Hood,United States,North America,26,2,2,0,4,No
+430,Wurzeralm-Spital am Pyhrn,Austria,Europe,41,10,10,2,22,No
+431,Prabichl-Vordernberg,Austria,Europe,37,6,11,3,20,Yes
+432,Pfelders-Moos in Passeier,Italy,Europe,33,5,9,4,18,Yes
+433,Mitterdorf-Almberg-– Mitterfirmiansreut,Germany,Europe,23,2,2,1,5,No
+434,Lavarone,Italy,Europe,36,19,5,2,26,No
+435,Bolton Valley,United States,North America,63,15,10,5,30,Yes
+436,Geißkopf-Bischofsmais,Germany,Europe,24,1,5,0,6,Yes
+437,Donovaly-Park Snow,Slovakia,Europe,26,5,5,0,10,Yes
+438,Kobla-Bohinj,Slovenia,Europe,22,12,10,1,23,No
+439,Sudelfeld-Bayrischzell,Germany,Europe,33,5,24,3,32,Yes
+440,Gruntenlifte-Kranzegg-Rettenberg,Germany,Europe,31,2,14,0,16,Yes
+441,Grebenzen St. Lambrecht,Austria,Europe,34,2,9,0,11,No
+442,Kirchdorf,Austria,Europe,30,3,2,0,5,No
+443,Nebelhorn-Oberstdorf,Germany,Europe,44,2,5,4,11,No
+444,Lachtal,Austria,Europe,41,7,16,2,25,No
+445,Ramsau am Dachstein-Rittisberg,Austria,Europe,36,14,10,1,25,No
+446,Burchen-Torbel-Moosalp,Switzerland,Europe,39,5,15,5,25,No
+447,Guzet,France,Europe,31,20,14,6,40,Yes
+448,Montage Mountain Resort,United States,North America,53,2,4,3,9,Yes
+449,Schetteregg-Egg,Austria,Europe,32,3,6,1,10,Yes
+450,Fichtelberg-Oberwiesenthal,Germany,Europe,26,6,6,2,14,Yes
+451,Bellwald,Switzerland,Europe,45,9,21,6,36,Yes
+452,Klewenalp-Stockhutte-Beckenried-Emmetten,Switzerland,Europe,45,15,25,0,40,No
+453,Schoneck-Skiwelt-,Germany,Europe,20,1,1,0,2,Yes
+454,Biaka Tatrzanska-Kotelnica,Poland,Europe,23,12,3,0,15,Yes
+455,Strbske Pleso,Slovakia,Europe,35,2,5,0,7,Yes
+456,Gaissau-Hintersee,Austria,Europe,35,23,10,0,33,Yes
+457,Sandia Peak,United States,North America,47,8,20,3,31,No
+458,Kellerjoch-Schwaz,Austria,Europe,29,5,2,2,9,No
+459,Aillons-Margeriaz,France,Europe,19,18,4,1,23,No
+460,Hochrindl-Sirnitz,Austria,Europe,32,5,11,3,19,Yes
+461,La Bresse-Hohneck,France,Europe,29,13,7,1,21,No
+462,Silbersattel-Steinach,Germany,Europe,19,2,1,0,3,Yes
+463,Gornaya Karusel,Russia,Europe,22,4,15,1,20,No
+464,Lammeralm-Langenwang,Austria,Europe,29,2,3,2,7,No
+465,Kitzbuheler Horn,Austria,Europe,40,6,9,2,17,Yes
+466,Myrkdalen,Norway,Europe,44,13,12,4,29,Yes
+467,Shymbulak Chimbulak,Kazakhstan,Asia,24,4,10,6,20,No
+468,Loser-Altaussee,Austria,Europe,40,18,12,3,33,Yes
+469,Christlum-Achenkirch,Austria,Europe,44,6,16,5,27,Yes
+470,Grasgehren-Bolgengrat,Germany,Europe,25,3,8,0,11,Yes
+471,Crystal Mountain,United States,North America,63,8,27,15,50,Yes
+472,Gotschen-Bischofswiesen,Germany,Europe,25,2,1,4,7,No
+473,Torrent-Leukerbad,Switzerland,Europe,46,3,26,16,45,Yes
+474,Monte Popolo-Eben im Pongau,Austria,Europe,36,4,2,0,6,Yes
+475,Sun Mountain-Yabuli,China,Asia,0,3,19,13,35,No
+476,Jochgrimm-Passo Oclini-,Italy,Europe,17,4,2,1,7,No
+477,Alpe Lusia,Italy,Europe,47,12,10,4,26,Yes
+478,Unternberg-Ruhpolding-,Germany,Europe,20,1,1,0,2,No
+479,Diavolezza Lagalb,Switzerland,Europe,59,0,21,10,31,No
+480,Kubinska hola,Slovakia,Europe,26,2,10,2,14,Yes
+481,Stevens Pass,United States,North America,63,4,18,15,37,Yes
+482,Gala,Norway,Europe,43,13,5,1,19,Yes
+483,Kvitfjell,Norway,Europe,45,19,10,5,34,Yes
+484,Molines-en-Queyras,France,Europe,29,20,12,1,33,No
+485,Tatranska Lomnica,Slovakia,Europe,35,5,5,1,11,No
+486,Mt. Dobson,New Zealand,Oceania,51,2,5,3,10,No
+487,Kanin-Sella Nevea-Bovec,Slovenia,Europe,35,4,6,0,10,No
+488,Postwiesen Skidorf-Neuastenberg,Germany,Europe,26,3,3,1,7,Yes
+489,Kaiseregg-Riggisalp-Schwarzsee,Switzerland,Europe,34,14,5,1,20,Yes
+490,St. Pierre de Chartreuse,France,Europe,21,18,12,5,35,No
+491,Loon Mountain,United States,North America,73,15,28,7,50,Yes
+492,Oberjoch Bad Hindelang,Germany,Europe,38,6,24,2,32,Yes
+493,Monichkirchen Mariensee,Austria,Europe,35,5,6,2,13,Yes
+494,Grachen,Switzerland,Europe,48,9,31,2,42,No
+495,Puigmal,France,Europe,0,9,15,7,31,No
+496,Kranzberg Mittenwald,Germany,Europe,29,6,7,2,15,Yes
+497,Wetterstein lifts Wettersteinbahnen,Austria,Europe,43,15,5,3,23,Yes
+498,Stuhleck-Spital am Semmering,Austria,Europe,42,18,6,0,24,Yes
+499,Le Massif,Canada,North America,51,12,16,11,39,Yes
+500,Desired Resort,Any Country,South America,44,0,20,0,100,Yes

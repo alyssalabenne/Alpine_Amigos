@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}Pie Chart{% endblock %}
+{% block content %}
+<div id="pie-chart-container">
+            <h1>Similarity Scores</h1>
+            <img class="img" src="{{ url_for('static', filename='pie_chart.png') }}" alt="Pie Chart">
+</div>
+{% endblock %}

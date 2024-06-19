@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+{% block content %}
+
+<html lang="en">
+<body>
+
+<main role="main" class="container">
+    <div class="row">
+        <div class="col-md-9">
+            <!-- Main content area -->
+        </div>
+        <div class="col-md-12">
+            <div class="content-section">
+                <h2>Preference Selection</h2>
+                <form action="{{ url_for('recommendations') }}" method="POST">
+                    <div class="form-group">
+                        <label for="country">Country:</label>
+                        <input type="text" class="form-control" id="country" name="country"
+                               placeholder="Not Required">
+                    </div>
+                    <div class="form-group">
+                        <label for="continent">Continent:</label>
+                        <select class="form-control" id="continent" name="continent" required>
+                            <option value="">Select Continent</option>
+                            <option value="North America">North America</option>
+                            <option value="South America">South America</option>
+                            <option value="Europe">Europe</option>
+                            <option value="Asia">Asia</option>
+                            <option value="Africa">Africa</option>
+                            <option value="Oceania">Oceania</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="snowparks">Are Terrain Parks Desired?</label>
+                        <select class="form-control" id="snowparks" name="snowparks" required>
+                            <option value="">Select</option>
+                            <option value="Yes">Yes</option>
+                            <option value="No">No</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="price">Lift Ticket Price:</label>
+                        <input type="number" class="form-control" id="price" name="price"
+                               placeholder="Enter desired lift ticket price point">
+                    </div>
+                    <div class="form-group">
+                        <label for="total_slopes">Mountain Size:</label>
+                        <select class="form-control" id="total_slopes" name="total_slopes" required>
+                            <option value="">Select</option>
+                            <option value="Small">Small</option>
+                            <option value="Medium">Medium</option>
+                            <option value="Large">Large</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="slope_difficulty">Preferred Slope Difficulty:</label>
+                        <select class="form-control" id="slope_difficulty" name="slope_difficulty" required>
+                            <option value="">Select</option>
+                            <option value="Beginner">Beginner</option>
+                            <option value="Intermediate">Intermediate</option>
+                            <option value="Difficult">Difficult</option>
+                        </select>
+                    </div>
+                    <button type="submit" class="button">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
+
+</body>
+</html>
+
+
+{% endblock %}

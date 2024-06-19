@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Recommendations{% endblock %}
+{% block content %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Recommended Ski Resorts</h1>
+        <form action="{{ url_for('pie_chart') }}" method="get">
+        <button class="button" type="submit">View Pie Chart</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Resort</th>
+                    <th>Continent</th>
+                    <th>Country</th>
+                    <th>Price</th>
+                    <th>Total Slopes</th>
+                    <th>Beginner Runs</th>
+                    <th>Intermediate Runs</th>
+                    <th>Difficult Runs</th>
+                    <th>Similarity Score</th>
+                </tr>
+            </thead>
+        <tbody>
+            {% for index, row in similar_resorts.iterrows() %}
+                <tr class="alternate-row">
+                    <td>{{ row['resort'] }}</td>
+                    <td>{{ row['continent'] }}</td>
+                    <td>{{ row['country'] }}</td>
+                    <td>{{ row['price'] }}</td>
+                    <td>{{ row['total_slopes'] }}</td>
+                    <td>{{ row['beginner_slopes'] }}</td>
+                    <td>{{ row['intermediate_slopes'] }}</td>
+                    <td>{{ row['difficult_slopes'] }}</td>
+                    <td>{{ row['similarity_score'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+    </div>
+</body>
+</html>
+{% endblock %}
