@@ -1,4 +1,16 @@
 # Alpine_Amigos
-The ski trip planning recommendation service will take the form of a web-based application developed in Python, a language well-suited for both data manipulation and web applications. The Pandas library will be employed for efficient data manipulation and analysis, while Flask will serve as the framework to create the web interface.
-Upon accessing the main dashboard, users will encounter a preferences selection box where they can specify their preferences for the mountain experience they seek. A click on the search button will trigger the generation of a list of top resorts based on these preferences, presenting users with comprehensive details about each resort.
-Key functionalities include the ability for users to select and save preferred resorts to their account for future reference. Upon logging in, users will be greeted with a personalized homepage featuring related recommendations based on their saved resorts. This streamlined process ensures that users have a user-friendly and efficient experience, from initial preferences to personalized recommendations. 
+Ski Trip Planning Recommendation Service
+
+Welcome to the Ski Trip Planning Recommendation Service! This web-based application, developed in Python, is designed to help you plan the perfect ski trip effortlessly.
+
+Features
+Data Manipulation and Analysis: Utilizes the powerful Pandas library for efficient data handling.
+Web Interface: Built with Flask to create a seamless user experience.
+Personalized Recommendations: Provides tailored resort suggestions based on your preferences.
+How It Works
+User Preferences: Start by accessing the main dashboard, where you'll find a preferences selection box. Specify your desired mountain experience here.
+Search and Results: Click the search button to generate a list of top resorts that match your preferences. Detailed information about each resort will be provided.
+Why Choose This Service?
+User-Friendly: From the initial selection of preferences to personalized recommendations, the process is streamlined for ease of use.
+Efficient and Reliable: Developed with robust technologies ensuring a smooth and efficient experience.
+We hope this service enhances your ski trip planning, making it simpler and more enjoyable!
